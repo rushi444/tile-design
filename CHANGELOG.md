@@ -1,5 +1,11 @@
 # tile-design
 
+## 0.0.4
+
+### Patch Changes
+
+- 2d49a9b: update publish config
+
 ## 0.0.3
 
 ### Patch Changes
